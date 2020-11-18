@@ -8,3 +8,6 @@
 4. Create a REST API to retrieve the same records and build this API using JAVA.
   - Please clone the repo from this link - https://github.com/Jaeykurapati/RestAPI.git
   - Run the Application as Spirng Boot and Send HTTP Requests accordingly.
+
+
+_```The data I used to create and load data is taken from Internet as I dont have enough time to create the data to work with. Modifications has been done on the data and final copy is uploaded.```_
